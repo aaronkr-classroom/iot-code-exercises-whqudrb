@@ -5,7 +5,7 @@ sensors = {
         "humidity": 47        
     },
     "bh1750":{
-        "lux": 350,
+        "lux": 450,
         "unit": "lux"
     }
 }
