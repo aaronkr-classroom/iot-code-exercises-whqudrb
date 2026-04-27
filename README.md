@@ -2,4 +2,4 @@
 Repository for code and exercises
 
 # 7장 실습 파일
-7-1 link(https://wokwi.com/projects/462414694288628737)
+7장 link_(https://wokwi.com/projects/462414694288628737)_
