@@ -2,5 +2,5 @@
 Repository for code and exercises
 
 # 실습 파일
-[7장 link](https://wokwi.com/projects/462414694288628737)\n
-[8장 link](https://wokwi.com/projects/463046794577656833)
+.[7장 link](https://wokwi.com/projects/462414694288628737)
+.[8장 link](https://wokwi.com/projects/463046794577656833)
